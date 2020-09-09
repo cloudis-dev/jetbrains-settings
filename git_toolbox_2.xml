@@ -1,8 +1,9 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="alwaysShowInlineBlameWhileDebugging" value="true" />
+    <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
     <option name="blameInlineDateType" value="ABSOLUTE" />
-    <option name="commitDialogCompletionMode" value="ON_DEMAND" />
+    <option name="blameStatusAuthorNameType" value="FIRSTNAME" />
     <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="decorationParts">
       <list>
@@ -39,6 +40,7 @@
         </option>
       </ExtrasConfig>
     </option>
+    <option name="presentationMode" value="arrowHeads" />
     <option name="previousVersionMigrated" value="true" />
     <option name="showEditorInlineBlame" value="false" />
     <option name="version" value="2" />
