@@ -1,0 +1,22 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="C and C++/Add as a parameter to constructor" />
+    <ignoreAction name="C and C++/Create missing switch cases" />
+    <ignoreAction name="C and C++/DeMorgan Law" />
+    <ignoreAction name="C and C++/Extract 'if'" />
+    <ignoreAction name="C and C++/Flip Binary Operation" />
+    <ignoreAction name="C and C++/Generate definitions" />
+    <ignoreAction name="C and C++/Introduce Typedef" />
+    <ignoreAction name="C and C++/Invert 'if' condition" />
+    <ignoreAction name="C and C++/Merge If Else" />
+    <ignoreAction name="C and C++/Merge Nested Ifs" />
+    <ignoreAction name="C and C++/Remove Unnecessary Parentheses" />
+    <ignoreAction name="C and C++/Remove suppression" />
+    <ignoreAction name="C and C++/Replace '?:' with 'if else'" />
+    <ignoreAction name="C and C++/Replace 'if else' with '?:'" />
+    <ignoreAction name="C and C++/Replace type with 'auto'" />
+    <ignoreAction name="C and C++/Split function into declaration and definition" />
+    <ignoreAction name="C and C++/Split into declaration and assignment" />
+    <ignoreAction name="C and C++/Split into separate declarations" />
+  </component>
+</application>

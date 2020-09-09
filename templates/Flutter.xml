@@ -1,0 +1,10 @@
+<templateSet group="Flutter">
+  <template name="dout" value="debugPrint('$CLASS_NAME_METHOD_NAME$ - L$LINE_AT$: $END$');" description="prints the current class and method name to standard out" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME_METHOD_NAME" expression="" defaultValue="dartClassNameMethodName" alwaysStopAt="false" />
+    <variable name="LINE_AT" expression="lineNumber()" defaultValue="lineNumber" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+</templateSet>
